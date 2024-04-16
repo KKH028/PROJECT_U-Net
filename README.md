@@ -1,4 +1,3 @@
-# U-Net_Project
 
 # U-Net 영상 캡쳐
 
